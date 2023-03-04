@@ -13,7 +13,7 @@ func main() {
 	model := extruder.SlideExtrude3D(box, v3.Vec{X: 20, Y: 0, Z: 20})
 	render.ToSTL(
 		model,
-		"./out/slide_extruder.stl",
-		render.NewMarchingCubesUniform(200),
+		"./out/extruder_slide.stl",
+		render.NewMarchingCubesUniform(300),
 	)
 }
