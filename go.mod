@@ -2,7 +2,10 @@ module github.com/vertect/sdfxx
 
 go 1.20
 
-require github.com/deadsy/sdfx v0.0.0-20230228232011-c400f727b99d
+require (
+	github.com/deadsy/sdfx v0.0.0-20230228232011-c400f727b99d
+	github.com/pkg/errors v0.9.1
+)
 
 require (
 	github.com/ajstarks/svgo v0.0.0-20211024235047-1546f124cd8b // indirect
