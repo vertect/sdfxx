@@ -37,3 +37,9 @@ Extensions for [deadsy/sdfx](https://github.com/deadsy/sdfx).
 #### Expo
 
 ![image](https://user-images.githubusercontent.com/514164/222914438-ec70cc06-8896-4c33-9aea-ba2268c3e21b.png)
+
+## Primitive
+
+### RegularPolygon2D
+
+![image](https://user-images.githubusercontent.com/514164/223480101-650658f2-d3a4-4cf1-a10c-60a7c6bc21c8.png)
